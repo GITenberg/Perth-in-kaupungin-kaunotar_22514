@@ -1,0 +1,51 @@
+_repo: Perth-in-kaupungin-kaunotar_22514
+_version: 0.1.0
+alternative_title: The fair maid of Perth. Finnish
+contributor:
+  translator:
+    agent_name: Krohn, Julius
+    aliases:
+    - Krohn, Gyula
+    - Krohn, Julius Leopold Fredrik
+    - Krohn, J. (Julius)
+    - Suonio
+    birthdate: 1835
+    deathdate: 1888
+    gutenberg_agent_id: '4607'
+    url: http://www.gutenberg.org/2009/agents/4607
+    wikipedia: http://fi.wikipedia.org/wiki/Julius_Krohn
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Scott, Walter
+    aliases:
+    - Scott, Sir Walter
+    - Templeton, Laurence
+    - Cleishbotham, Jedediah
+    - Malagrowther, Malachi
+    birthdate: 1771
+    deathdate: 1832
+    gutenberg_agent_id: '59'
+    url: http://www.gutenberg.org/2009/agents/59
+    wikipedia: http://en.wikipedia.org/wiki/Walter_Scott
+description: ''
+gutenberg_issued: '2007-09-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22514'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Perth (Scotland) -- Fiction'
+- !lcsh 'Merchants -- Fiction'
+- !lcsh 'Historical fiction'
+- !lcsh 'Social classes -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Nobility -- Fiction'
+- !lcsh 'Scotland -- History -- Robert III, 1390-1406 -- Fiction'
+title: Perth'in kaupungin kaunotar
+url: http://www.gutenberg.org/ebooks/22514
